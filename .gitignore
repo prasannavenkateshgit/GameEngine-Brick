@@ -1,0 +1,8 @@
+# C++ obj files
+*.o
+
+# C++ main executable
+main
+
+# vscode stuff
+.vscode/*
